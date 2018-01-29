@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1056716742056",
+    "firebase_url": "https://nguoiconggiao-24d62.firebaseio.com",
+    "project_id": "nguoiconggiao-24d62",
+    "storage_bucket": "nguoiconggiao-24d62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056716742056:android:33c77659834772e3",
+        "android_client_info": {
+          "package_name": "com.nguoiconggiao.ominext.nguoiconggiao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056716742056-rcli9cfq29hn233hht7v1fdb3hjblgmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nguoiconggiao.ominext.nguoiconggiao",
+            "certificate_hash": "ee5b64ac096b94f07d7982546318e6cd956dd838"
+          }
+        },
+        {
+          "client_id": "1056716742056-io1cfe1rok0uaan9ngf1kqtrr9ksk2vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYpe3jcI-azp6lB1c5mCRMyRoAcpwTHeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056716742056-io1cfe1rok0uaan9ngf1kqtrr9ksk2vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056716742056:android:41820a8551473367",
+        "android_client_info": {
+          "package_name": "cb.cphuong.nguoiconggiao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056716742056-0sep44a728u5ra5p1alhc2g2q0go7beg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cb.cphuong.nguoiconggiao",
+            "certificate_hash": "ee5b64ac096b94f07d7982546318e6cd956dd838"
+          }
+        },
+        {
+          "client_id": "1056716742056-io1cfe1rok0uaan9ngf1kqtrr9ksk2vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYpe3jcI-azp6lB1c5mCRMyRoAcpwTHeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056716742056-io1cfe1rok0uaan9ngf1kqtrr9ksk2vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
