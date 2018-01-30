@@ -2,8 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#a16b6b"
-    tools:context="cb.cphuong.nguoiconggiao.fragment.BlankFragment">
+    tools:context="cb.cphuong.nguoiconggiao.fragment.regis.InforLogin">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView

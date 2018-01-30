@@ -2,8 +2,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#99d7c6"
-    tools:context="cb.cphuong.nguoiconggiao.fragment.BlankFragment2">
+    android:background="#a185ef"
+    tools:context="cb.cphuong.nguoiconggiao.fragment.regis.InforStatus">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
