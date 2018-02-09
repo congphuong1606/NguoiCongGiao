@@ -133,7 +133,7 @@
                     android:background="@drawable/backgroud_edittext"
                     android:drawableLeft="@drawable/ic_local_phone_black_24dp"
                     android:drawablePadding="10dp"
-                    android:hint="Nhập số điện thoại di động"
+                    android:hint="Tên đăng nhập"
                     android:paddingLeft="10dp"
                     android:singleLine="true"
                     android:windowSoftInputMode="stateAlwaysVisible" />
@@ -147,7 +147,7 @@
                     android:background="@drawable/backgroud_edittext"
                     android:drawableLeft="@drawable/ic_lock_black_24dp"
                     android:drawablePadding="10dp"
-                    android:hint="Nhập số mật khẩu"
+                    android:hint="Mật khẩu"
                     android:inputType="textPassword"
                     android:paddingLeft="10dp"
                     android:singleLine="true"

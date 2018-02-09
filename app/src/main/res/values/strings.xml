@@ -17,4 +17,32 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="danhSachGiaoPhanString">Giáo Phận Bắc Ninh,Giáo Phận Bùi Chu,Giáo Phận Hải Phòng,Giáo Phận Hưng Hóa ,Giáo Phận Lạng Sơn ,Giáo Phận Phát Diệm,Giáo Phận Thanh Hóa,
+        Giáo Phận Thái Bình,Giáo Phận Vinh,Giáo Phận Ban Mê Thuột,Giáo Phận Đà Nẵng,Giáo Phận Nha Trang,Giáo Phận Kon Tum,Giáo Phận Quy Nhơn,Giáo Phận Bà Rịa,Giáo Phận Đà Lạt,Giáo Phận Cần Thơ,Giáo Phận Mỹ Tho,Giáo Phận Long Xuyên,Giáo Phận Phú Cường,Giáo Phận Xuân Lộc,Giáo Phận Phan Thiết,Giáo Phận Vĩnh Long,Giáo Phận Hà Nội,Giáo Phận Huế,Giáo Phận Sài Gòn</string>
+    <string name="g15">Giáo Hạt Bà Rịa , Giáo Hạt Bình Giả, Giáo Hạt Long Hương, Giáo Hạt Vũng Tàu, Giáo Hạt Xuyên Mộc</string>
+    <string name="g1">Giáo Hạt Bắc Giang,  Giáo Hạt Bắc Ninh , Giáo Hạt Tây Nam (,  Giáo Hạt Thái Nguyên,Giáo Hạt Tuyên Quang</string>
+    <string name="g10">Giáo Hạt Buôn Hô ,Giáo Hạt chính tòa - GP Ban Mê Thuột ,Giáo Hạt Gia Nghĩa ,  Giáo Hạt Giang Sơn , Giáo Hạt Mẫu Tâm , Giáo Hạt Phước Long , Giáo Hạt ĐĂK MIL , Giáo Hạt Đồng Xoài</string>
+    <string name="g2">Giáo Hạt Báo Ðáp , Giáo Hạt Bùi Chu , Giáo Hạt Kiên Chính ,  Giáo Hạt Lạc Ðạo,  Giáo Hạt Liễu Đề,Giáo Hạt Ninh Cường, Giáo Hạt Phú Nhai ,  Giáo Hạt Quần Phương ,Giáo Hạt Quỹ Nhất ,Giáo Hạt Thức Hóa ,Giáo Hạt Tứ Trùng, Giáo Hạt Tương Nam , Giáo Hạt Ðại Ðồng </string>
+    <string name="g17">Giáo Hạt Bạc Liêu , Giáo Hạt Cà Mau, Giáo Hạt Cần Thơ , Giáo Hạt Sóc Trăng,  Giáo Hạt Trà Lồng, Giáo Hạt Vị Thanh,Giáo Hạt Đại Hải</string>
+    <string name="g3">Giáo Hạt chính tòa Hải Phòng,    Giáo Hạt Hải Dương, Giáo Hạt Hòn Gai ,Giáo Hạt Kẻ Sặt,  Giáo Hạt Mạo Khê,Giáo Hạt Nam An</string>
+    <string name="g4">Giáo Hạt Hà - Tuyên - Hùng,Giáo Hạt Hòa Bình - Sơn La - Điện Biên,Giáo Hạt Lào Cai - Lai Châu ,Giáo Hạt Nghĩa Lộ,Giáo Hạt Sơn Tây ,Giáo Hạt Tây Bắc Phú Thọ,Giáo Hạt Tây Nam Phú Thọ,Giáo Hạt Yên Bái,Giáo Hạt Ðông Nam Phú Thọ </string>
+    <string name="g13">Giáo Hạt Chư Sê, Giáo Hạt Kontum , Giáo Hạt Pleiku,  Giáo Hạt Đăk Hà</string>
+    <string name="g5">Giáo Hạt Cao Bằng,Giáo Hạt Lạng Sơn</string>
+    <string name="g19">Giáo Hạt Chợ Mới,  Giáo Hạt Long Xuyên , Giáo Hạt Rạch Giá ,Giáo Hạt Tân Hiệp, Giáo Hạt Vĩnh Thạnh</string>
+    <string name="g18">Giáo Hạt Cái Bè, Giáo Hạt Cao Lãnh , Giáo Hạt Cù Lao Tây, Giáo Hạt Mỹ Tho, Giáo Hạt Tân An,  Giáo Hạt Ðức Hòa</string>
+    <string name="g12">Giáo Hạt Cam Lâm ,   Giáo Hạt Cam Ranh, Giáo Hạt Diên Khánh , Giáo Hạt Nha Trang ,  Giáo Hạt Ninh Hải , Giáo Hạt Ninh Phước ,   Giáo Hạt Ninh Sơn , Giáo Hạt Phan Rang,Giáo Hạt Vạn Ninh </string>
+    <string name="g22">Giáo Hạt Bắc Tuy, Giáo Hạt Hàm Tân, Giáo Hạt Hàm Thuận Nam, Giáo Hạt Phan Thiết ,  Giáo Hạt Đức Tánh </string>
+    <string name="g6">Giáo Hạt Bạch Liên, Giáo Hạt Cách Tâm, Giáo Hạt Ninh Bình , Giáo Hạt Phát Diệm , Giáo Hạt Phúc Nhạc,Giáo Hạt Tôn Ðạo, Giáo Hạt Văn Hải, Giáo Hạt Vô Hốt ,Giáo Hạt Ðồng Chưa</string>
+    <string name="g20">Giáo Hạt Bến Cát,Giáo Hạt Bình Long,Giáo Hạt Củ Chi ,Giáo Hạt Lạc An,Giáo Hạt Phú Cường ,Giáo Hạt Phước Thành ,Giáo Hạt Tây Ninh</string>
+    <string name="g14">Giáo Hạt Bình Ðịnh, Giáo Hạt Bồng Sơn, Giáo Hạt Gò Thị, Giáo Hạt Kim Châu,áo Hạt Mằng Lăng,    Giáo Hạt Quảng Ngãi,Giáo Hạt Tuy Hòa</string>
+    <string name="g8">Giáo Hạt Bắc Tiền Hải ,  Giáo Hạt Kiến Xương ,Giáo Hạt Nam Tiền Hải ,Giáo Hạt Tây Hưng Yên,Giáo Hạt Thái Thụy,Giáo Hạt Tp Thái Bình , Giáo Hạt Đông Hưng,Giáo Hạt Đông Hưng Yên</string>
+    <string name="g7">Giáo Hạt Ba Làng,  Giáo Hạt Mỹ Điện, Giáo Hạt Nga Sơn, Giáo Hạt Sông Chu,     Giáo Hạt Sông Mã,Giáo Hạt Thanh Hóa </string>
+    <string name="g9">Giáo Hạt Bảo Nham,Giáo Hạt Bột Đà, Giáo Hạt Cẩm Xuyên, Giáo Hạt Cầu Rầm, Giáo Hạt chính tòa Xã Đoài , Giáo Hạt Cửa Lò ,Giáo Hạt Hòa Ninh, Giáo Hạt Hướng Phương, Giáo Hạt Kẻ Dừa, Giáo Hạt Kỳ Anh, Giáo Hạt Minh Cầm, Giáo Hạt Ngàn Sâu, Giáo Hạt Nghĩa Yên,  Giáo Hạt Nguồn Son, Giáo Hạt Nhân Hòa ,  Giáo Hạt Phủ Quỳ, Giáo Hạt Quy Hậu,  Giáo Hạt Thuận Nghĩa , Giáo Hạt Văn Hạnh, Giáo Hạt Vạn Lộc, Giáo Hạt Đông Tháp</string>
+    <string name="g23">Giáo Hạt Bến Tre,Giáo Hạt Bình Đại,Giáo Hạt Cái Mơn,Giáo Hạt Mặc Bắc ,   Giáo Hạt Mai Phốp, Giáo Hạt Sa Đéc,Giáo Hạt Thạnh Phú,  Giáo Hạt Trà Vinh,  Giáo Hạt Vĩnh Kim,  Giáo Hạt Vĩnh Long</string>
+    <string name="g21">Giáo Hạ Bình An,Giáo Hạt Biên Hòa,Giáo Hạt Gia Kiệm,Giáo Hạt Hố Nai,Giáo Hạt Hòa Thanh,Giáo Hạt Long Thành,Giáo Hạt Phú Thịnh,Giáo Hạt Phước Lý,Giáo Hạt Phương Lâm,Giáo Hạt Tân Mai,Giáo hạt Túc Trưng,Giáo hạt Xuân Lộc</string>
+    <string name="g16">Giáo Hạt Bảo Lộc,Giáo Hạt Di Linh,Giáo Hạt Madagui,Giáo Hạt Đà Lạt,Giáo Hạt Đơn Dương,Giáo Hạt Đức Trọng</string>
+    <string name="g11">,Giáo Hạt Hòa Vang,Giáo Hạt Hội An,Giáo Hạt Tam Kỳ,Giáo Hạt Trà Kiệu,Giáo Hạt Đà Nẵng</string>
+    <string name="g24">,Giáo Hạt Chính Tòa Hà Nội,Giáo Hạt Lý Nhân,Giáo Hạt Nam Định,Giáo Hạt Phủ Lý ,Giáo Hạt Phú Xuyên,Giáo Hạt Thanh Oai - Hòa Bình</string>
+    <string name="g25">,Giáo Hạt Hải Vân,Giáo Hạt Hương Phú,Giáo Hạt Hương Quảng Phong,Giáo Hạt Quảng Trị,Giáo Hạt Thành Phố Huế</string>
+    <string name="g26">Giáo Hạt Bình An,Giáo Hạt Chí Hòa,Giáo Hạt Gia Định,Giáo Hạt Gò Vấp,Giáo Hạt Hóc Môn,Giáo Hạt Phú Nhuận,Giáo Hạt Phú Thọ,Giáo Hạt Sài Gòn Chợ Quán,Giáo Hạt Tân Sơn Nhì,Giáo Hạt Tân Định,Giáo Hạt Thủ Thiêm,Giáo Hạt Thủ Đức,Giáo Hạt Xóm Chiếu,Giáo Hạt Xóm Mới</string>
 </resources>

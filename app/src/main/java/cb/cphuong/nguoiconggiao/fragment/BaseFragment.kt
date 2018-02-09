@@ -17,10 +17,10 @@ abstract class  BaseFragment : Fragment() {
     protected abstract fun onDestroyComposi()
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
-        var v: View = inflater.inflate(LayoutId, container, false)
+        viewBase = inflater.inflate(LayoutId, container, false)
         injectDependence()
-        onCreate(v)
-        return v;
+        onCreate(viewBase!!)
+        return viewBase;
     }
 
 
@@ -29,11 +29,16 @@ abstract class  BaseFragment : Fragment() {
 
     }
 
+    override fun getView(): View? {
+        return viewBase
+    }
+
     override fun onDestroyView() {
         super.onDestroyView()
         onDestroyComposi()
     }
 
+    var viewBase: View?=null
 
 
 }//

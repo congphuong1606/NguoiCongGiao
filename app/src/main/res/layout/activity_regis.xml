@@ -7,37 +7,72 @@
     android:background="@color/colorPrimaryDark"
     android:windowSoftInputMode="adjustPan|adjustResize"
     tools:context="cb.cphuong.nguoiconggiao.activity.RegisActivity">
-    <TextView
-        android:padding="10dp"
-        android:textColor="#8c8c8c"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        android:gravity="center_vertical"
-        android:text="Thành viên mới"
-        android:background="@drawable/bacgroud_fragment_regis2"
+
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="?actionBarSize" />
+        android:layout_height="wrap_content"
+        android:background="@drawable/bacgroud_fragment_regis2"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/btn_back_regis"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@null"
+            android:src="@drawable/ic_arrow_back_black_24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            android:gravity="center_vertical"
+
+            android:text="Thành viên mới"
+            android:textColor="#8c8c8c"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
 
     <FrameLayout
-        android:layout_marginTop="?actionBarSize"
+       android:background="#f9f9f9"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?actionBarSize">
+
+    </FrameLayout>
+    <FrameLayout
         android:id="@+id/framelayout"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:layout_marginTop="?actionBarSize">
 
     </FrameLayout>
 
-    <ImageButton
-        android:id="@+id/btnForwardFragment"
-        android:layout_width="50dp"
-        android:layout_height="50dp"
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="20dp"
-        android:src="@drawable/ic_arrow_forward_black_24dp"
-        android:background="@drawable/backgroud_arrow_forward"
-        android:gravity="center">
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/btnForwardFragment"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/backgroud_arrow_forward"
+            android:gravity="center"
+            android:src="@drawable/ic_arrow_forward_black_24dp">
 
 
-    </ImageButton>
+        </ImageButton>
+
+        <View
+            android:id="@+id/vi"
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+    </LinearLayout>
+
 
 </RelativeLayout>

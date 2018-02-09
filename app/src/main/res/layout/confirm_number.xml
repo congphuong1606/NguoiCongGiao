@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Nhập mã xác nhận"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+    <com.raycoarana.codeinputview.CodeInputView
+        android:id="@+id/codeInput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        app:code_text_color="#b12eff"
+        app:error_color="#77ce9d"
+        app:input_type="text"
+        app:length_of_code="6"
+        app:underline_color="#457ad1"
+        app:underline_selected_color="#9e1ace" />
+</LinearLayout>

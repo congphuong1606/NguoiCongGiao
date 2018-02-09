@@ -6,7 +6,7 @@ package cb.cphuong.nguoiconggiao.common
 object Contans {
     val SPF_NAME = "saveUser"
     val SPF_REGIS_NICK_NAME = "regisNickName"
-    val SPF_REGIS_NUMBER = "regisNumber"
+    val SPF_REGIS_EMAIL = "regisNumber"
     val SPF_REGIS_PASS= "regisPass"
     val SPF_REGIS_CONFIRM_PASS= "regisConfirmPass"
 }

@@ -6,9 +6,9 @@ import android.view.View
 import cb.cphuong.nguoiconggiao.R
 import cb.cphuong.nguoiconggiao.fragment.BaseFragment
 
-class InforStatus : BaseFragment() {
+class AddAvatar : BaseFragment() {
     override val LayoutId: Int
-        get() = R.layout.fragment_infor_status
+        get() = R.layout.fragment_add_avatar
 
     override fun injectDependence() {
 
@@ -22,5 +22,10 @@ class InforStatus : BaseFragment() {
 
     }
 
+    companion object {
+        val instance: AddAvatar
+            get() = AddAvatar()
+
+    }
 
 }

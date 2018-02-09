@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f9f9f9"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="cb.cphuong.nguoiconggiao.fragment.regis.AddAvatar">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Ảnh đại diện"
+        android:textColor="#646464"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Nên sử dụng hình ảnh cá nhân"
+        android:textColor="#535051"
+        android:textSize="10sp" />
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imvAddAvatar"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+
+        android:src="@drawable/ic_no_image" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:background="@drawable/backgroud_button_login"
+        android:drawableLeft="@drawable/ic_camera_black_24dp"
+        android:gravity="center"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="Thay đổi"
+        android:textSize="14sp" />
+
+
+</LinearLayout>
