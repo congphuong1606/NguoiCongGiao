@@ -7,7 +7,7 @@ import android.support.v4.app.Fragment
 import android.view.View
 import cb.cphuong.nguoiconggiao.R
 import cb.cphuong.nguoiconggiao.common.Contans
-import cb.cphuong.nguoiconggiao.fragment.BaseFragment
+import cb.cphuong.nguoiconggiao.base.BaseFragment
 import com.rw.keyboardlistener.KeyboardUtils
 import kotlinx.android.synthetic.main.fragment_infor_login.view.*
 

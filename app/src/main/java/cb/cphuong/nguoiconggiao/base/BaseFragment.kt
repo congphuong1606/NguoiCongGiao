@@ -1,4 +1,4 @@
-package cb.cphuong.nguoiconggiao.fragment
+package cb.cphuong.nguoiconggiao.base
 
 import android.os.Bundle
 import android.support.v4.app.Fragment

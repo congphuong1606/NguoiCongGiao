@@ -1,6 +1,10 @@
 package vn.phuongcong.fchat.di.module
 
+import cb.cphuong.nguoiconggiao.activity.regis.RegisView
 import dagger.Module
+import dagger.Provides
+import vn.phuongcong.fchat.di.scope.ActivityScope
+import vn.phuongcong.fchat.ui.login.LoginView
 
 
 /**
@@ -8,9 +12,9 @@ import dagger.Module
  */
 @Module
 class ViewModule {
-//    lateinit var loginView: LoginView
-//    lateinit var regisView: RegisView
-//    lateinit var groupView: GroupView
+       lateinit var loginView: LoginView
+lateinit var regisView: RegisView
+    //    lateinit var groupView: GroupView
 //    lateinit var chatView: ChatView
 //    lateinit var friendView: FriendView
 //    lateinit var listMsgView: ListMsgView
@@ -21,14 +25,14 @@ class ViewModule {
 //
 //
 //
-//    @Provides
-//    @ActivityScope
-//    fun provideLoginView(): LoginView = loginView
+    @Provides
+    @ActivityScope
+    fun provideLoginView(): LoginView = loginView
 //
-//    @Provides
-//    @ActivityScope
-//    fun provideRegisView(): RegisView = regisView
-//
+    @Provides
+    @ActivityScope
+    fun provideRegisView(): RegisView = regisView
+    //
 //    @Provides
 //    @ActivityScope
 //    fun provideGroupView(): GroupView = groupView
@@ -61,13 +65,13 @@ class ViewModule {
 //    @ActivityScope
 //    fun provideChatGroupView(): ChatGroupView = chatGroupView
 //
-//    constructor(loginView: LoginView) {
-//        this.loginView = loginView
-//    }
+    constructor(loginView: LoginView) {
+        this.loginView = loginView
+    }
 //
-//    constructor(regisView: RegisView) {
-//        this.regisView = regisView
-//    }
+    constructor(regisView: RegisView)  {
+        this.regisView = regisView
+    }
 //
 //    constructor(groupView: GroupView) {
 //        this.groupView = groupView
@@ -101,6 +105,8 @@ class ViewModule {
 //        this.mainView=mainView
 //
 //    }
+
+
 
 
 

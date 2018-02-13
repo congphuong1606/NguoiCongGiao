@@ -17,7 +17,7 @@
         android:theme="@style/AppTheme">
         <activity android:name=".activity.MainActivity"></activity>
         <activity
-            android:name=".activity.LoginActivity"
+            android:name=".activity.login.LoginActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustResize|stateHidden"
             android:label="@string/title_activity_login" >
@@ -27,7 +27,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.RegisActivity"
+        <activity android:name=".activity.regis.RegisActivity"
             android:windowSoftInputMode="adjustResize|stateHidden"></activity>
     </application>
 
